@@ -1,5 +1,5 @@
 from selenium import webdriver
-from browser import BDisplay
+from browser import BDisplay # Comment this out for live browser
 from browser import Browser
 from pages.home_page import HomePage
 
